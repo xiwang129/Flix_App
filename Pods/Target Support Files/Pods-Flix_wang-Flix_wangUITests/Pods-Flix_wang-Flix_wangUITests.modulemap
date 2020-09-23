@@ -1,0 +1,6 @@
+framework module Pods_Flix_wang_Flix_wangUITests {
+  umbrella header "Pods-Flix_wang-Flix_wangUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

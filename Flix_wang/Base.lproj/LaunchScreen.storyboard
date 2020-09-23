@@ -17,11 +17,11 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" fixedFrame="YES" image="launch_image" translatesAutoresizingMaskIntoConstraints="NO" id="VhU-y8-YJn">
-                                <rect key="frame" x="113" y="269" width="189" height="186"/>
+                                <rect key="frame" x="122" y="267" width="173" height="164"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Flix" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6YU-jx-dXi">
-                                <rect key="frame" x="130" y="479" width="156" height="51"/>
+                                <rect key="frame" x="130" y="463" width="156" height="51"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="45"/>
                                 <nil key="textColor"/>
