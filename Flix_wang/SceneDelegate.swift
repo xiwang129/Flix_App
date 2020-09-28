@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Flix_wang
 //
-//  Created by Xiang W. on 9/20/20.
+//  
 //
 
 import UIKit
